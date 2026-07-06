@@ -1,4 +1,4 @@
-# Here is my dump for projects completed during the A-level summer holidays
+# Here is a repository exploring numerical method solutions to differential equations
 
 ## To-do:
 - Explain mathematical derivations using multi variable taylor series
